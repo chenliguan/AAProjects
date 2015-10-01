@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AAProjects</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="title_activity_frame">FrameActivity</string>
+    <string name="tv_top_title">AA费用小助手</string>
+    <string name="welcome_info">欢迎您使用AA费用小助手！</string>
+
+
+    <string name="grid_payout">记录消费</string>
+    <string name="grid_payout_manage">查询消费</string>
+    <string name="grid_statistics_manage">统计消费</string>
+    <string name="grid_accoutbook_manage">账本管理</string>
+    <string name="grid_category_manage">类别管理</string>
+    <string name="grid_user_manage">人员管理</string>
+
+
+    <string-array name="slidemenu_activity_main">
+        <item>软件帮助</item>
+        <item>关于软件</item>
+        <item>建议反馈</item>
+        <item>软件更新</item>
+    </string-array>
+
+</resources>
